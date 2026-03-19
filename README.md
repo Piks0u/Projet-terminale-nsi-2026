@@ -1,2 +1,2 @@
-# Projet-terminale-nsi-2026 skibidi
-vsrdrctbxcrs
+# Projet-terminale-nsi-2026
+Projet scolaire, wordle en francais avec python et tkinter
